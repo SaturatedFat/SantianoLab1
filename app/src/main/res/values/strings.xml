@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyFirstTime</string>
+    <string name="input_name">Please Input a Number</string>
+</resources>
